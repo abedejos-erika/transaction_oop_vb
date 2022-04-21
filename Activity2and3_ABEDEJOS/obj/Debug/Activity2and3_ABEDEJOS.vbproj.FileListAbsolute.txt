@@ -1,0 +1,20 @@
+C:\Users\Miriam\AppData\Local\Temporary Projects\Activity2and3_ABEDEJOS\bin\Debug\Activity2and3_ABEDEJOS.exe.config
+C:\Users\Miriam\AppData\Local\Temporary Projects\Activity2and3_ABEDEJOS\bin\Debug\Activity2and3_ABEDEJOS.exe
+C:\Users\Miriam\AppData\Local\Temporary Projects\Activity2and3_ABEDEJOS\bin\Debug\Activity2and3_ABEDEJOS.pdb
+C:\Users\Miriam\AppData\Local\Temporary Projects\Activity2and3_ABEDEJOS\bin\Debug\Activity2and3_ABEDEJOS.xml
+C:\Users\Miriam\AppData\Local\Temporary Projects\Activity2and3_ABEDEJOS\obj\Debug\Activity2and3_ABEDEJOS.FRMACT2AND3.resources
+C:\Users\Miriam\AppData\Local\Temporary Projects\Activity2and3_ABEDEJOS\obj\Debug\Activity2and3_ABEDEJOS.Resources.resources
+C:\Users\Miriam\AppData\Local\Temporary Projects\Activity2and3_ABEDEJOS\obj\Debug\Activity2and3_ABEDEJOS.vbproj.GenerateResource.Cache
+C:\Users\Miriam\AppData\Local\Temporary Projects\Activity2and3_ABEDEJOS\obj\Debug\Activity2and3_ABEDEJOS.exe
+C:\Users\Miriam\AppData\Local\Temporary Projects\Activity2and3_ABEDEJOS\obj\Debug\Activity2and3_ABEDEJOS.xml
+C:\Users\Miriam\AppData\Local\Temporary Projects\Activity2and3_ABEDEJOS\obj\Debug\Activity2and3_ABEDEJOS.pdb
+C:\Users\Miriam\Downloads\Activity2and3_ABEDEJOS\Activity2and3_ABEDEJOS\bin\Debug\Activity2and3_ABEDEJOS.exe.config
+C:\Users\Miriam\Downloads\Activity2and3_ABEDEJOS\Activity2and3_ABEDEJOS\obj\Debug\Activity2and3_ABEDEJOS.exe
+C:\Users\Miriam\Downloads\Activity2and3_ABEDEJOS\Activity2and3_ABEDEJOS\obj\Debug\Activity2and3_ABEDEJOS.xml
+C:\Users\Miriam\Downloads\Activity2and3_ABEDEJOS\Activity2and3_ABEDEJOS\obj\Debug\Activity2and3_ABEDEJOS.pdb
+C:\Users\Miriam\Downloads\Activity2and3_ABEDEJOS\Activity2and3_ABEDEJOS\bin\Debug\Activity2and3_ABEDEJOS.exe
+C:\Users\Miriam\Downloads\Activity2and3_ABEDEJOS\Activity2and3_ABEDEJOS\bin\Debug\Activity2and3_ABEDEJOS.pdb
+C:\Users\Miriam\Downloads\Activity2and3_ABEDEJOS\Activity2and3_ABEDEJOS\bin\Debug\Activity2and3_ABEDEJOS.xml
+C:\Users\Miriam\Downloads\Activity2and3_ABEDEJOS\Activity2and3_ABEDEJOS\obj\Debug\Activity2and3_ABEDEJOS.FRMACT2AND3.resources
+C:\Users\Miriam\Downloads\Activity2and3_ABEDEJOS\Activity2and3_ABEDEJOS\obj\Debug\Activity2and3_ABEDEJOS.Resources.resources
+C:\Users\Miriam\Downloads\Activity2and3_ABEDEJOS\Activity2and3_ABEDEJOS\obj\Debug\Activity2and3_ABEDEJOS.vbproj.GenerateResource.Cache
